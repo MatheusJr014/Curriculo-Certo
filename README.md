@@ -1,7 +1,7 @@
 ## Formação Academica 
 - Faculdade UNIMAR
     
-    Cursando Analise e Desenvolvimento de Sistemas 
+   <br /> Cursando Analise e Desenvolvimento de Sistemas 
     Início em 02/2023
     Conclusão Esperada em 12/2025
 
