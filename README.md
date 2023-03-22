@@ -4,9 +4,9 @@
    Conclusão Esperada em 12/2025<br />
 
 - Escola SESI 
-Ensino Médio Completo 
-Início em 01/2009
-Conclusão em 12/2022
+<br />Ensino Médio Completo<br />
+Início em 01/2009<br />
+Conclusão em 12/2022<br />
 
 - SENAI "Jose Polizotto" 
 Técnico em Eletroeletrônica
