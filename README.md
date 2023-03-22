@@ -9,8 +9,8 @@ Início em 01/2009<br />
 Conclusão em 12/2022<br />
 
 - SENAI "Jose Polizotto" 
-Técnico em Eletroeletrônica
-Início em 01/2020
-Conclusão em 12/2022 
+<br />Técnico em Eletroeletrônica<br />
+Início em 01/2020<br />
+Conclusão em 12/2022<br />
 ---
 
