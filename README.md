@@ -1,9 +1,8 @@
 ## Formação Academica 
 - Faculdade UNIMAR
     
-   <br /> Cursando Analise e Desenvolvimento de Sistemas <br /> 
-    <br />Início em 02/2023<br />
-    <br />Conclusão Esperada em 12/2025<br />
+   <br /> Cursando Analise e Desenvolvimento de Sistemas <br /> <br />Início em 02/2023<br /> 
+   <br />Conclusão Esperada em 12/2025<br />
 
 - Escola SESI 
 Ensino Médio Completo 
