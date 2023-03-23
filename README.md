@@ -3,6 +3,6 @@
 - CPF: XXXXXXXXXXXXXXXX
 - Endereço: XXXXXXXXXXXXXX XXXXX
 - Sexo : Masculino 
-
+- Linkedin: 
 ---
 
