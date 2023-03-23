@@ -26,3 +26,13 @@ Conclusão em 12/2022<br />
 <br />Técnico em Eletroeletrônica<br />
 Início em 01/2020<br />
 Conclusão em 12/2022<br />
+
+## Competências
+
+- Programação em C++
+- Programação Basica Python 
+- Logica de Programação 
+- Resiliencia 
+- Trabalho em equipe 
+- Conhecimentos em pacote Office 
+- Familiaridade com os sistemas, softwares e ferramentas
