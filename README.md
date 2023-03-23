@@ -1,4 +1,4 @@
-## Objetivo 
+## Certificações Extras
 - Certificação em Economia Circular 20 horas<br/>
 - Certificação em Finanças Pessoais 14 Horas <br/>
 - Certificação em Fundamentos de Logística 14 Horas <br/>
