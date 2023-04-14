@@ -1,6 +1,6 @@
 # Curriculo 
 ## Matheus Junior Dos Santos David 
-![Logo do Markdown](img/markdown.png)
+![Logo do Markdown](img/markdown.png).
 ## Dados Pessoais 
 - Email: matheusjuniosantosdavid@gmail.com
 - Numero: (11) 4002-8922
