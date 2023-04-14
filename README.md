@@ -1,6 +1,6 @@
 # Curriculo 
 ## Matheus Junior Dos Santos David 
-![sei la ](http://developer.r-project.org/Logo/Rlogo-5.png)
+![Logo R ](http://developer.r-project.org/Logo/Rlogo-5.png)
 ## Dados Pessoais 
 - Email: matheusjuniosantosdavid@gmail.com
 - Numero: (11) 4002-8922
